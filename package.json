@@ -1,0 +1,14 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Taylor Swift Lyric Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kana Hashimoto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
